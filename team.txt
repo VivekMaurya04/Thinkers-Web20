@@ -1,6 +1,6 @@
 Thinkers team members
-1.Vivek Kumar Maurya
-2.Govind Kumawat
-3.Pranshu Singh Bisht
-4.Abhijeet Kale
-5.Abhinav Bajpai
+1.Vivek Kumar Maurya (fw20_0421)
+2.Abhinav Bajpai (fw20_0429)
+3.Govind Kumawat (fw20_0422)
+4.Abhijeet Kale (fw20_0425)
+5.Pranshu Singh Bisht (fw20_0423)
